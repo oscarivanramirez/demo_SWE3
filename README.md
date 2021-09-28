@@ -7,10 +7,10 @@ To create the env for a new developer, run `make dev_env`.
 
 # Class done
 
-##Requirements
+## Requirements
 Show class wassuppppp
 
 
-##design 
+## design 
 we coding rn
 
